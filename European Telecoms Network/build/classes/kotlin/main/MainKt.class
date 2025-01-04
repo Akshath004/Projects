@@ -1,0 +1,13 @@
+// IntelliJ API Decompiler stub source generated from a class file
+// Implementation of methods is not available
+
+@androidx.compose.runtime.Composable @androidx.compose.runtime.ComposableTarget public fun app(): kotlin.Unit { /* compiled code */ }
+
+public fun processFile(file: java.io.File): kotlin.Pair<org.graphstream.graph.Graph, kotlin.Int> { /* compiled code */ }
+
+public fun createGraph(mst: kotlin.collections.List<Edge>, cityToIndex: kotlin.collections.Map<kotlin.String, kotlin.Int>): org.graphstream.graph.Graph { /* compiled code */ }
+
+public fun kruskalMST(numVertices: kotlin.Int, edges: kotlin.collections.List<Edge>): kotlin.Pair<kotlin.collections.List<Edge>, kotlin.Int> { /* compiled code */ }
+
+public fun main(): kotlin.Unit { /* compiled code */ }
+
