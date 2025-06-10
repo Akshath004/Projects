@@ -1,2 +1,2 @@
 # Projects
-These are most of my projects which I have done in my university/ in my free time :)
+Projects that I have done in my university/ free time.
